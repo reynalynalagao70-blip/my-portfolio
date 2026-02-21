@@ -1,0 +1,11 @@
+# Huwag isama ang mga system files ng computer
+.DS_Store
+Thumbs.db
+
+# Kung sakaling gagamit ka ng node.js sa future
+node_modules/
+.env
+
+# Huwag isama ang mga temporary folders
+dist/
+build/
